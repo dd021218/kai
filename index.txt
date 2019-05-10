@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>英雄聯盟銅銀金代打</title>
+</head>
+
+<body>
+<center>
+
+<h1><font face="標楷體">代打一場99</font></h1>
+<h2><font face="微軟正黑體">陪打一場99 送BO</font></h2>
+<img src="image/pic1.jpg" border="0" height="250" width="300">
+<img src="image/pic2.jpg" border="0" height="250" width="300">
+<img src="image/pic3.jpg" border="0" height="250" width="300">
+<img src="image/pic4.jpg" border="0" height="250" width="300">
+<br>
+<font face="新細明體">
+專業代打、陪打 一場$99 買5送1
+</font>
+</center>
+</body>
+
+
+</html>
